@@ -42,7 +42,9 @@ Install all packages with:
 pip install -r requirements.txt
 ```
 
-## **Included Files** - STOP-ET_compile_sample.zip
+## **Included Files** 
+### Datasets.zip
+----------------
 ### 1MPX Dataset Fragment
 ```bash
 1MPX/
