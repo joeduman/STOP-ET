@@ -73,11 +73,12 @@ Two standalone executables are included for quick evaluation of the STOP-ET pipe
 
 | **File**             | **Platform**     |
 |----------------------|------------------|
-| `STOP-ET_sample`     | Linux / macOS    |
+| `STOP-ET_sample`[Anonymous Google Drive](https://drive.google.com/drive/folders/1boO1-lG9yDep87spzuHq1XRw8EWV8jyp?usp=sharing)     | Linux / macOS    |
 | `STOP-ET_sample.exe` | Windows          |
 
 Both executables showcase the same denoising, reconstruction, and prediction stages.
 
+Please extract all dataset folders, and place them in the same directory as the executable.
 ---
 
 ## **Attack Generation Scripts**
