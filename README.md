@@ -52,7 +52,7 @@ pip install -r requirements.txt
     ├── voxel_XXXX.npy   # 10 clean samples
     └── voxel_XXXX.npy   # 1 attacked (Frame Attack)
 ```
-### DVSGesture DAtaset Fragment
+### DVSGesture Dataset Fragment
 ```bash
 DVSGesture/
 └── tmp/
