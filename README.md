@@ -3,6 +3,7 @@
 STOP-ET is a modular, lightweight processing pipeline designed to detect, filter, and reconstruct event-camera data under adversarial manipulation.  
 This repository includes a demo implementation and sample dataset fragments showing STOP-ET’s performance across multiple neuromorphic benchmarks.
 
+##### Supplemental Figures: https://drive.google.com/file/d/1kAODT4TXS52M0bEW1jQgDsA1fnGARYCO/view?usp=sharing
 ---
 
 ## **Environment Setup**
